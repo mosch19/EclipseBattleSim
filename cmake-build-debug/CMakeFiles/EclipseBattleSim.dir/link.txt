@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/EclipseBattleSim.dir/main.cpp.o  -o EclipseBattleSim 

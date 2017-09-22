@@ -1,0 +1,28 @@
+******************************************************************
+NAME                HULL    COMP    SHIELDS INITIATIVE  POWER   ID
+BASIC HULL          1       0       0       0           0       1
+IMPROVED HULL       2       0       0       0           0       2
+SHARD HULL          3       0       0       0           0       3
+ELECTRON COMPUTER   0       1       0       0           0       4
+POSITRON COMPUTER   0       2       0       1           -1      5
+GLUON COMPUTER      0       3       0       2           -2      6
+AXION COMPUTER      0       3       0       0           0       7
+GAUSS SHIELD        0       0       -1      0           0       8
+PHASE SHIELD        0       0       -2      0           -1      9
+FLUX SHIELD         0       0       -3      0           -2      10
+NUCLEAR DRIVE       0       0       0       1           -1      11
+FUSION DRIVE        0       0       0       2           -2      12
+TACHYON DRIVE       0       0       0       3           -3      13
+CONFORMAL DRIVE     0       0       0       2           -2      14
+NUCLEAR SOURCE      0       0       0       0           3       15
+FUSION SOURCE       0       0       0       0           6       16
+TACHYON SOURCE      0       0       0       0           9       17
+******************************************************************
+******************************************************************
+Name                POWER       DAMAGE      MISSILE     DICE    ID
+ION CANNON          1           1           0           1       18
+PLASMA CANNON       2           2           0           1       19
+ANTIMATTER CANNON   4           4           0           1       20
+ION TURRET          1           1           0           2       21
+PLASMA MISSILE      0           2           1           2       22
+******************************************************************
